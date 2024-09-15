@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD581C3C-B0C3-4F07-9B84-5844E8314562}|SPRINT3NET.Application\\SPRINT3NET.Application.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD581C3C-B0C3-4F07-9B84-5844E8314562}|SPRINT3NET.Application\\SPRINT3NET.Application.csproj|solutionrelative:sprint3net.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Application\\Program.cs",
+              "RelativeDocumentMoniker": "SPRINT3NET.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Application\\Program.cs",
+              "RelativeToolTip": "SPRINT3NET.Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:35:44.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
