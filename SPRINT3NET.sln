@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPRINT3NET", "SPRINT3NET.csproj", "{347A3478-E3E0-4BDB-B304-1D14C2BC4332}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{B0310BF8-6C0F-4062-A566-E299C653924F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{347A3478-E3E0-4BDB-B304-1D14C2BC4332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347A3478-E3E0-4BDB-B304-1D14C2BC4332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347A3478-E3E0-4BDB-B304-1D14C2BC4332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347A3478-E3E0-4BDB-B304-1D14C2BC4332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{347A3478-E3E0-4BDB-B304-1D14C2BC4332} = {B0310BF8-6C0F-4062-A566-E299C653924F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D1EEAA-B1FD-4E31-A65E-54565B1BFEF3}
+	EndGlobalSection
+EndGlobal
