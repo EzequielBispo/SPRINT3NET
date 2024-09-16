@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SPRINT3NET.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+384b13f6d2536ebb23f0a2618475e082ffd9e603")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+512c7cdb69c5e56e86b696d21782753772c0fad4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SPRINT3NET.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SPRINT3NET.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
