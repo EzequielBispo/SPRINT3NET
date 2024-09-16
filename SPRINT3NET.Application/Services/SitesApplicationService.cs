@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SPRINT3NET.Domain.Entities;
+﻿using SPRINT3NET.Domain.Entities;
 using SPRINT3NET.Domain.Interfaces;
 
 namespace SPRINT3NET.Application.Services
 {
-    internal class SitesApplicationService : ISitesApplicationService
+    public class SitesApplicationService : ISitesApplicationService
     {
         private readonly ISitesRepository _sitesRepository;
 
@@ -17,7 +12,7 @@ namespace SPRINT3NET.Application.Services
             _sitesRepository = sitesRepository;
         }
 
-        public SitesEntity? ApagarSites(int id)
+        public SitesEntity? DeletarSites(int id)
         {
             return _sitesRepository.ApagarSites(id);
         }
@@ -27,19 +22,29 @@ namespace SPRINT3NET.Application.Services
             return _sitesRepository.EditarSites(entity);
         }
 
-        public SitesEntity? BuscarSitesID(int id)
+        public SitesEntity? ObterSitesPorId(int id)
         {
-            return _sitesRepository.BuscarSitesID(id);
+            return _sitesRepository.ObterPorId(id);
         }
 
         public IEnumerable<SitesEntity> BuscarTodosSites()
         {
-            return _sitesRepository.BuscarTodos()
+            return _sitesRepository.ObterTodos();
         }
 
         public SitesEntity? SalvarSites(SitesEntity entity)
         {
             return _sitesRepository.SalvarSites(entity);
+        }
+
+        public IEnumerable<SitesEntity> ObterTodosSites()
+        {
+            throw new NotImplementedException();
+        }
+
+        public SitesEntity? ApagarSites(int id)
+        {
+            throw new NotImplementedException();
         }
     }
 }
