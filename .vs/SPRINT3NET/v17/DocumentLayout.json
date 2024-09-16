@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{685EA5EF-A809-4A88-8F65-F98D901D2742}|SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.domain\\interfaces\\isitesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EA5EF-A809-4A88-8F65-F98D901D2742}|SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj|solutionrelative:sprint3net.domain\\interfaces\\isitesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD581C3C-B0C3-4F07-9B84-5844E8314562}|SPRINT3NET.Application\\SPRINT3NET.Application.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.application\\services\\sitesapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD581C3C-B0C3-4F07-9B84-5844E8314562}|SPRINT3NET.Application\\SPRINT3NET.Application.csproj|solutionrelative:sprint3net.application\\services\\sitesapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EA5EF-A809-4A88-8F65-F98D901D2742}|SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.domain\\interfaces\\isitesapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EA5EF-A809-4A88-8F65-F98D901D2742}|SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj|solutionrelative:sprint3net.domain\\interfaces\\isitesapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC65F676-84B0-4FEF-BD87-1D561C59DA4A}|SPRINT3NET.Data\\SPRINT3NET.Data.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC65F676-84B0-4FEF-BD87-1D561C59DA4A}|SPRINT3NET.Data\\SPRINT3NET.Data.csproj|solutionrelative:sprint3net.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EA5EF-A809-4A88-8F65-F98D901D2742}|SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.domain\\entities\\sitesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EA5EF-A809-4A88-8F65-F98D901D2742}|SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj|solutionrelative:sprint3net.domain\\entities\\sitesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EA5EF-A809-4A88-8F65-F98D901D2742}|SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.domain\\sprint3net.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{685EA5EF-A809-4A88-8F65-F98D901D2742}|SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj|solutionrelative:sprint3net.domain\\sprint3net.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD581C3C-B0C3-4F07-9B84-5844E8314562}|SPRINT3NET.Application\\SPRINT3NET.Application.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.application\\sprint3net.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -17,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{347A3478-E3E0-4BDB-B304-1D14C2BC4332}|SPRINT3NET.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{347A3478-E3E0-4BDB-B304-1D14C2BC4332}|SPRINT3NET.csproj|solutionrelative:sprint3net.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC65F676-84B0-4FEF-BD87-1D561C59DA4A}|SPRINT3NET.Data\\SPRINT3NET.Data.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC65F676-84B0-4FEF-BD87-1D561C59DA4A}|SPRINT3NET.Data\\SPRINT3NET.Data.csproj|solutionrelative:sprint3net.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD581C3C-B0C3-4F07-9B84-5844E8314562}|SPRINT3NET.Application\\SPRINT3NET.Application.csproj|c:\\users\\ezequielbispo\\workspace\\sprint3net\\sprint3net.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD581C3C-B0C3-4F07-9B84-5844E8314562}|SPRINT3NET.Application\\SPRINT3NET.Application.csproj|solutionrelative:sprint3net.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,58 +51,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ISitesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Domain\\Interfaces\\ISitesRepository.cs",
+              "RelativeDocumentMoniker": "SPRINT3NET.Domain\\Interfaces\\ISitesRepository.cs",
+              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Domain\\Interfaces\\ISitesRepository.cs",
+              "RelativeToolTip": "SPRINT3NET.Domain\\Interfaces\\ISitesRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:47:47.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SitesApplicationService.cs",
               "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Application\\Services\\SitesApplicationService.cs",
               "RelativeDocumentMoniker": "SPRINT3NET.Application\\Services\\SitesApplicationService.cs",
               "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Application\\Services\\SitesApplicationService.cs",
               "RelativeToolTip": "SPRINT3NET.Application\\Services\\SitesApplicationService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T18:19:19.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SPRINT3NET.Application",
-              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Application\\SPRINT3NET.Application.csproj",
-              "RelativeDocumentMoniker": "SPRINT3NET.Application\\SPRINT3NET.Application.csproj",
-              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Application\\SPRINT3NET.Application.csproj",
-              "RelativeToolTip": "SPRINT3NET.Application\\SPRINT3NET.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-16T18:11:09.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ISitesApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Domain\\Interfaces\\ISitesApplicationService.cs",
+              "RelativeDocumentMoniker": "SPRINT3NET.Domain\\Interfaces\\ISitesApplicationService.cs",
+              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Domain\\Interfaces\\ISitesApplicationService.cs",
+              "RelativeToolTip": "SPRINT3NET.Domain\\Interfaces\\ISitesApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T17:39:18.25Z",
+              "WhenOpened": "2024-09-16T19:40:21.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SPRINT3NET.http",
-              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.http",
-              "RelativeDocumentMoniker": "SPRINT3NET.http",
-              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.http",
-              "RelativeToolTip": "SPRINT3NET.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-16T17:37:51.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Data\\Program.cs",
               "RelativeDocumentMoniker": "SPRINT3NET.Data\\Program.cs",
@@ -103,15 +102,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Application\\Program.cs",
-              "RelativeDocumentMoniker": "SPRINT3NET.Application\\Program.cs",
-              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Application\\Program.cs",
-              "RelativeToolTip": "SPRINT3NET.Application\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "SitesEntity.cs",
+              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Domain\\Entities\\SitesEntity.cs",
+              "RelativeDocumentMoniker": "SPRINT3NET.Domain\\Entities\\SitesEntity.cs",
+              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Domain\\Entities\\SitesEntity.cs",
+              "RelativeToolTip": "SPRINT3NET.Domain\\Entities\\SitesEntity.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T21:35:44.594Z"
+              "WhenOpened": "2024-09-16T18:57:53.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SPRINT3NET.Domain",
+              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj",
+              "RelativeDocumentMoniker": "SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj",
+              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj",
+              "RelativeToolTip": "SPRINT3NET.Domain\\SPRINT3NET.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T18:56:41.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SPRINT3NET.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Application\\SPRINT3NET.Application.csproj",
+              "RelativeDocumentMoniker": "SPRINT3NET.Application\\SPRINT3NET.Application.csproj",
+              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.Application\\SPRINT3NET.Application.csproj",
+              "RelativeToolTip": "SPRINT3NET.Application\\SPRINT3NET.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T18:11:09.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:39:18.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SPRINT3NET.http",
+              "DocumentMoniker": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.http",
+              "RelativeDocumentMoniker": "SPRINT3NET.http",
+              "ToolTip": "C:\\Users\\EzequielBispo\\Workspace\\SPRINT3NET\\SPRINT3NET.http",
+              "RelativeToolTip": "SPRINT3NET.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-16T17:37:51.615Z"
             }
           ]
         }
