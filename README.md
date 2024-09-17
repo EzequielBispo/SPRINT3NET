@@ -4,6 +4,13 @@ A API foi desenvolvida com o objetivo de gerenciar sites encontrados na Surface 
 
 A arquitetura monolítica por exemplo não nos atenderia nesse caso, visto que o projeto já foi criado pensando na divisão dos serviços e a escalabilidade do projeto como um todo.
 
+## Integrantes
+
+Kelvin Gomes - rm98126
+Leonardo Seiti - rm550207
+Helena Medeiros - rm551873
+Ezequiel Bispo - rm99573
+
 ## Requisitos
 
   - Pacotes NuGet:
