@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SPRINT3NET</name>
+    </assembly>
+    <members>
+        <member name="M:Ecommerce.Produto.API.Controllers.SitesController.Get">
+            <summary>
+            Metodo para obter todos os dados de Sites
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Ecommerce.Produto.API.Controllers.SitesController.GetPorId(System.Int32)">
+            <summary>
+            Metodo para obter uma Sites
+            </summary>
+            <param name="id"> Identificado da Sites</param>
+            <returns></returns>
+        </member>
+        <member name="M:Ecommerce.Produto.API.Controllers.SitesController.Post(SPRINT3NET.Domain.Entities.SitesEntity)">
+            <summary>
+            Metodos para salvar a Sites
+            </summary>
+            <param name="entity"> Modelo de dados da Sites</param>
+            <returns></returns>
+        </member>
+        <member name="M:Ecommerce.Produto.API.Controllers.SitesController.Put(SPRINT3NET.Domain.Entities.SitesEntity)">
+            <summary>
+            Metodos para editar a Sites
+            </summary>
+            <param name="entity"> Modelo de dados da Sites</param>
+            <returns></returns>
+        </member>
+        <member name="M:Ecommerce.Produto.API.Controllers.SitesController.Delete(System.Int32)">
+            <summary>
+            Metodo para deletar uma Sites
+            </summary>
+            <param name="id"> Identificado da Sites</param>
+            <returns></returns>
+        </member>
+        <member name="T:SPRINT3NET.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:SPRINT3NET.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SPRINT3NET.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SPRINT3NET.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
